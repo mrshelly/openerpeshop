@@ -1,0 +1,12 @@
+/svn/addons			# openerp 模块部分
+/svn/doc			# 开发文档部分
+/svn/www			# eshop 网站部分
+/svn/www/act			# 网站动作部分
+/svn/www/api			# 网站 API 部分
+/svn/www/res			# 网站资源
+/svn/www/res/js			# 网站 Javascript 部分
+/svn/www/res/css		# 网站 CSS 部分
+/svn/www/res/img		# 网站 公共图片部分
+/svn/www/cfg			# 网站配置部分
+/svn/www/lib			# 网站代码部分
+/svn/www/tpl			# 网站模板部分
