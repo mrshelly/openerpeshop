@@ -1,0 +1,25 @@
+#labels eshop,object
+==对象==
+===eshop.site===
+  站点定义
+
+  * name  网店名
+  * desc  介绍
+
+===eshop.site.config===
+  站点配置
+
+===eshop.site.product.image===
+  商品图片定义
+
+  * product_id  商品
+  * main        主图
+  * others      其它图
+
+===eshop.site.product.category===
+  商品分类
+
+  * name              网站分类
+
+
+
