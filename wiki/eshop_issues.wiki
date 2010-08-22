@@ -6,6 +6,7 @@
   * name  网店名
   * desc  介绍
   * logo  站点logo
+  * categ_id 站点对应商品分类id
 
 ===eshop.site.config===
   站点配置
@@ -21,8 +22,10 @@
   商品分类
 
   * name              网站分类
+  * site_id           站点id
+  * categ_id          网站分类对应OE分类
 
-===eshop.site.product.rel_cate_product
+===eshop.site.product.rel_cate_product===
   商品分类商品关联
 
   * cate_id
